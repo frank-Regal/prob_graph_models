@@ -1,1 +1,1 @@
-# prob_graph_models
+# Probabalistic Graph Model Testing
